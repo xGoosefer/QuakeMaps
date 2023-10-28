@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "../wads/prototype_1_3.wad;C:/quakedev/wads/BLUE.WAD;C:/quakedev/wads/cptrans.wad;C:/quakedev/wads/tiles.wad;C:/quakedev/wads/chicosruin_Q1.wad;C:/quakedev/wads/doom2.wad;C:/quakedev/wads/praevus.wad"
+"wad" "../wads/prototype_1_3.wad;C:/quakedev/wads/BLUE.WAD;C:/quakedev/wads/cptrans.wad"
 // brush 0
 {
 ( 1216 464 -16 ) ( 1216 465 -16 ) ( 1216 464 -15 ) 128_gold_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
