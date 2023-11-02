@@ -10213,15 +10213,3 @@
 "origin" "966 -2020 378"
 "light" "300"
 }
-// entity 340
-{
-"classname" "light"
-"origin" "966 -1060 378"
-"light" "300"
-}
-// entity 341
-{
-"classname" "light"
-"origin" "-82 -1060 378"
-"light" "300"
-}
