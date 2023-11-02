@@ -7830,18 +7830,6 @@
 // entity 168
 {
 "classname" "light_torch_small_walltorch"
-"origin" "1212 134 120"
-"light" "450"
-}
-// entity 169
-{
-"classname" "light"
-"origin" "1208 132 328"
-"light" "450"
-}
-// entity 170
-{
-"classname" "light"
-"origin" "-440 132 328"
+"origin" "-444 134 120"
 "light" "450"
 }
