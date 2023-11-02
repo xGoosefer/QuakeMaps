@@ -7153,3 +7153,58 @@
 ( 168 -960 615.652173913073 ) ( 167.6481868468436 -955.8903751715352 -71.65217391307486 ) ( 168 -960 -71.65217391307489 ) tile0110 [ 0.30904033973433753 -0.2740419372126911 0 -24.316162 ] [ 0 0 -0.41304347826080273 -9.391312 ] 0 0.2 0.2
 }
 }
+// entity 47
+{
+"classname" "light_torch_small_walltorch"
+"origin" "260 1960 132"
+}
+// entity 48
+{
+"classname" "light_torch_small_walltorch"
+"origin" "388 1960 132"
+}
+// entity 49
+{
+"classname" "light_torch_small_walltorch"
+"origin" "388 2228 132"
+}
+// entity 50
+{
+"classname" "light_torch_small_walltorch"
+"origin" "260 2228 132"
+}
+// entity 51
+{
+"classname" "light_torch_small_walltorch"
+"origin" "108 2680 132"
+}
+// entity 52
+{
+"classname" "light_torch_small_walltorch"
+"origin" "592 2680 132"
+}
+// entity 53
+{
+"classname" "light_torch_small_walltorch"
+"origin" "594 2108 132"
+}
+// entity 54
+{
+"classname" "light_torch_small_walltorch"
+"origin" "60 2108 132"
+}
+// entity 55
+{
+"classname" "light_torch_small_walltorch"
+"origin" "348 3022 410"
+}
+// entity 56
+{
+"classname" "light_torch_small_walltorch"
+"origin" "582 3022 410"
+}
+// entity 57
+{
+"classname" "light_torch_small_walltorch"
+"origin" "74 3022 410"
+}
