@@ -7415,10 +7415,5 @@
 // entity 99
 {
 "classname" "light_torch_small_walltorch"
-"origin" "188 716 388"
-}
-// entity 100
-{
-"classname" "light_torch_small_walltorch"
-"origin" "452 716 388"
+"origin" "176 716 388"
 }
